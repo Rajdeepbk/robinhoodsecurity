@@ -1,0 +1,2 @@
+print ("happy");
+print('Rajdeep');
